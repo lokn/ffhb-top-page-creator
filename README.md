@@ -10,5 +10,5 @@ crontab -e
 with
 
 <code>
-30 7 * * * python3 /home/wiki_create_page.py
+30 7 * * * python3 /path_to_file/wiki_create_page.py
 </code>
